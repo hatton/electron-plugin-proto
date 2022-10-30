@@ -1,0 +1,8 @@
+{
+  "name": "paranextMR",
+  "workspaces": [
+    "server/*",
+    "electron/*",
+    "plugins/*"
+  ]
+}
